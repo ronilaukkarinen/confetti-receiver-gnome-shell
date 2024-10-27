@@ -136,7 +136,7 @@ WantedBy=multi-user.target
 Send a POST request to trigger the confetti:
 
 ```bash
-curl -X POST https://confetti.rolle.wtf
+curl -X POST https://confetti.example.com
 ```
 
 You should see the confetti effect activate in your GNOME environment. If you encounter any issues, check the logs with:
