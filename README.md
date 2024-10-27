@@ -1,5 +1,5 @@
 
-# Confetti Trigger Service for GNOME with Cloudflare Tunnel
+# 🎉 Confetti Trigger Service for GNOME with Cloudflare Tunnel
 
 This project allows you to trigger a confetti animation in the GNOME Shell environment by sending a POST request to a public URL, thanks to Cloudflare Tunnel and a Python HTTP server.
 
